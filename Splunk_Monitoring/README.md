@@ -20,7 +20,7 @@ The goal was to simulate a SIEM (Security Information and Event Management) work
 - Audited and analyzed user activity through log data
 
 ## 📸 Screenshot
-![Splunk Dashboard](Splunk_Monitoring/Images/SplunkProject_ES.png)
+![Splunk Dashboard](Boot_Camp_Projects/Splunk_Monitoring/Images/SplunkProject_ES.png)
 
 ## 🧠 What I Learned
 - How to set up a SIEM solution for log analysis and monitoring  
