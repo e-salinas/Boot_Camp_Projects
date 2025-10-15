@@ -20,11 +20,11 @@ The goal was to simulate a SIEM (Security Information and Event Management) work
 - Audited and analyzed user activity through log data
 
 ## 📸 Screenshot
-<strong>Splunk: Designing a Monitoring Solution</strong><br>
-    <a href="https://raw.githubusercontent.com/e-salinas/<repo-name>/Boot_Camp_Projects/SplunkProject_ES.png" target="_blank">
-      <img src="Splunk_Monitoring/SplunkProject_ES.pdf" 
-           alt="Splunk Project Screenshot" 
-           width="400">
+
+**Splunk: Designing a Monitoring Solution**  
+
+[![Splunk Project Screenshot](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/SplunkProject_ES.pdf)](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/SplunkProject_ES.pdf)
+
 
 ## 🧠 What I Learned
 - How to set up a SIEM solution for log analysis and monitoring  
