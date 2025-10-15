@@ -16,29 +16,21 @@ This project involved deploying a web application to Microsoft Azure, configurin
 - (If applicable) Integrated a CI/CD pipeline to automate deployment from GitHub  
 - Tested for availability and correct behavior post-deployment
 
-## 📸 Screenshot / Demo  
-Here’s what my deployed web app looks like:  
+## 📸 Screenshots  
+The following is the write up I did for my course that shows the material covered.
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page1.png)
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page2.png)
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page3.png)
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page4.png)
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page5.png)
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page6.png)
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page7.png)
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page8.png)
+![Web App Demo](https://github.com/e-salinas/Boot_Camp_Projects/blob/main/Azure_WebApp_Lab/Images/CloudWebAppProject_page9.png)
 
-![Web App Demo](./Images/webapp_demo.png)  
-> Replace `webapp_demo.png` with your actual screenshot name that you upload in `Images/`.
 
 ## 🧠 What I Learned  
 - How to deploy a web application to Azure using both the Portal and CLI  
 - Managing Azure resources like App Service and Resource Groups  
-- Configuring runtime environments, environment variables, and settings for cloud deployment  
-- (If used) How CI/CD pipeline integration works for automated deployment  
+- Configuring runtime environments, environment variables, and settings for cloud deployment    
 - Considerations for cloud deployment: scaling, availability, and configuration
-
-## ⚡ Future Enhancements  
-- Add HTTPS/SSL configuration and custom domain setup  
-- Add monitoring and logging (Application Insights)  
-- Add database backend or other services (e.g. Azure SQL, Cosmos DB)  
-- Improve CI/CD pipeline (auto rollback, staging slots)  
-- Optimize performance, caching, and security headers  
-
-## 🧑‍💻 How to Explore / Run Locally  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/e-salinas/Boot_Camp_Projects.git
-   cd Boot_Camp_Projects/Azure_WebApp_Lab
-
