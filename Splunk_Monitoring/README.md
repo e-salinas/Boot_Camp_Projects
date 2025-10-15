@@ -21,7 +21,7 @@ The goal was to simulate a SIEM (Security Information and Event Management) work
 
 ## 📸 Screenshot
 <strong>Splunk: Designing a Monitoring Solution</strong><br>
-    <a href="https://raw.githubusercontent.com/e-salinas/<repo-name>/main/Images/SplunkProject_ES.png" target="_blank">
+    <a href="https://raw.githubusercontent.com/e-salinas/<repo-name>/Boot_Camp_Projects/SplunkProject_ES.png" target="_blank">
       <img src="https://raw.githubusercontent.com/e-salinas/<repo-name>/main/Images/SplunkProject_ES.png" 
            alt="Splunk Project Screenshot" 
            width="400">
