@@ -2,7 +2,7 @@
 
 ## 📜 Overview
 This project focused on designing and implementing a security monitoring solution using **Splunk**.  
-I learned how to collect, analyze, and visualize log data to identify potential security incidents and trends.  
+I learned how to collect, analyze, visualize log data, and set alerts to identify potential security incidents and trends.  
 The goal was to simulate a SIEM (Security Information and Event Management) workflow similar to what security analysts use in real-world environments.
 
 ## 🧰 Skills & Tools
