@@ -23,8 +23,16 @@ The goal was to simulate a SIEM (Security Information and Event Management) work
 
 **Splunk: Designing a Monitoring Solution**  
 
-[![Splunk Project Screenshot](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/SplunkProject.png)](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/SplunkProject.png)
+## 📸 Splunk: Designing a Monitoring Solution
 
+Here are screenshots from the Splunk monitoring project:
+
+![Splunk Page 1](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/Image/SplunkProject_Page1.png)
+![Splunk Page 2](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/Image/SplunkProject_Page2.png)
+![Splunk Page 3](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/Image/SplunkProject_Page3.png)
+![Splunk Page 3](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/Image/SplunkProject_Page4.png)
+![Splunk Page 3](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/Image/SplunkProject_Page5.png)
+![Splunk Page 3](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/Image/SplunkProject_Page6.png)
 
 ## 🧠 What I Learned
 - How to set up a SIEM solution for log analysis and monitoring  
