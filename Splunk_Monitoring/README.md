@@ -23,7 +23,7 @@ The goal was to simulate a SIEM (Security Information and Event Management) work
 
 **Splunk: Designing a Monitoring Solution**  
 
-[![Splunk Project Screenshot](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/SplunkProject_ES.pdf)](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/SplunkProject_ES.pdf)
+[![Splunk Project Screenshot](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/SplunkProject.png)](https://raw.githubusercontent.com/e-salinas/Boot_Camp_Projects/main/Splunk_Monitoring/SplunkProject.png)
 
 
 ## 🧠 What I Learned
