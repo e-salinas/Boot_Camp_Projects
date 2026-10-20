@@ -7,7 +7,6 @@ Each project reflects hands-on work in different domains of cybersecurity and cl
 
 | Project | Description | Tools/Skills |
 |---------|-------------|--------------|
-| [Linux Server Setup](./Linux_Server_Setup) | Prepared and secured a new Linux server environment. | Linux, Bash, SSH |
 | [Splunk Monitoring](./Splunk_Monitoring) | Designed a monitoring solution using Splunk. | SIEM, Log Analysis |
 | [Azure Web App](./Azure_WebApp_Lab) | Deployed and configured a secure web application in the cloud. | Azure, Web Security, App Services |
 
