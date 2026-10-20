@@ -1,7 +1,7 @@
 # ☁️ Azure Web App Lab
 
 ## 📜 Overview  
-This project involved deploying a web application to Microsoft Azure, configuring it to run in the App Service environment, and ensuring that it is accessible and secure. The objective was to experience cloud deployment workflows (including setup, configuration, and deployment) and understand how to host a real web app in Azure.
+This coursework project introduced me to deploying a web application in Azure App Service and working with cloud configuration, certificates, Azure Front Door, and web application firewall settings. The screenshots below preserve my original course submission.
 
 ## 🧰 Tools & Technologies  
 - **Azure App Service** – host and run the web app  
@@ -12,8 +12,7 @@ This project involved deploying a web application to Microsoft Azure, configurin
 - Created an Azure resource group and App Service plan  
 - Deployed the web application to Azure App Service  
 - Configured runtime settings, environment variables, and scaling  
-- Verified the app was live via its public URL  
-- (If applicable) Integrated a CI/CD pipeline to automate deployment from GitHub  
+- Verified the app was live via its public URL   
 - Tested for availability and correct behavior post-deployment
 
 ## 📸 Screenshots  
